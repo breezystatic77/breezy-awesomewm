@@ -1,0 +1,6 @@
+[submodule "lain"]
+	path = lain
+	url = https://github.com/lcpz/lain.git
+[submodule "sharedtags"]
+	path = sharedtags
+	url = https://github.com/Drauthius/awesome-sharedtags.git
